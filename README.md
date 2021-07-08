@@ -1,3 +1,4 @@
+使用ssh做git clone到本機端會出現異常
 # maven-project
 Fork from https://github.com/fallskygaoyan/maven-project.git
 Source code for Sunny's Jenkins course at Udemy.
