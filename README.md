@@ -19,7 +19,7 @@ Maven 项目类型
 https://wiki.jenkins-ci.org/display/JENKINS/Maven+Project+Plugin
 
 111
-  
+  2222
 
 如果您正在构建一个复杂的maven项目，那么请选择maven项目类型，这是Jenkins专门为基于maven的项目保留的一个项目模板。
 
