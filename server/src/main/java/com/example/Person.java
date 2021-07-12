@@ -14,7 +14,7 @@ public class Person {
 
   //TODO: Add javadoc comment
   public String person(String someone) {
-	  System.out.println("ddd");
+	  System.out.println("kkk");
     return String.format("Hello, %s!", someone);
   }
   private int Newage;
