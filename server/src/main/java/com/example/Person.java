@@ -16,5 +16,9 @@ public class Person {
   public String person(String someone) {
     return String.format("Hello, %s!", someone);
   }
-  private int age;
+  private int Newage;
+  
+  public int getNewage() {
+	  return Newage;
+  }
 }
