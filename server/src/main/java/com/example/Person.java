@@ -16,4 +16,5 @@ public class Person {
   public String person(String someone) {
     return String.format("Hello, %s!", someone);
   }
+  private int age;
 }
